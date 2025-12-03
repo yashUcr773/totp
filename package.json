@@ -1,0 +1,25 @@
+{
+  "name": "totp",
+  "version": "1.0.0",
+  "description": "Time based One Time Password",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashUcr773/totp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashUcr773/totp/issues"
+  },
+  "homepage": "https://github.com/yashUcr773/totp#readme",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "typescript": "^5.9.3"
+  }
+}
